@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|c:\\users\\petro\\documents\\projetos\\validarsenha\\validarsenha\\services\\senhavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|solutionrelative:validarsenha\\services\\senhavalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|c:\\users\\petro\\documents\\projetos\\validarsenha\\validarsenha\\models\\senhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|solutionrelative:validarsenha\\models\\senhamodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|c:\\users\\petro\\documents\\projetos\\validarsenha\\validarsenha\\controllers\\senhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75AFCFF2-02CB-44CC-A04E-309897FC7513}|ValidarSenha\\ValidarSenha.csproj|solutionrelative:validarsenha\\controllers\\senhacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SenhaController.cs",
+              "DocumentMoniker": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Controllers\\SenhaController.cs",
+              "RelativeDocumentMoniker": "ValidarSenha\\Controllers\\SenhaController.cs",
+              "ToolTip": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Controllers\\SenhaController.cs",
+              "RelativeToolTip": "ValidarSenha\\Controllers\\SenhaController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:59:52.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SenhaModel.cs",
+              "DocumentMoniker": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Models\\SenhaModel.cs",
+              "RelativeDocumentMoniker": "ValidarSenha\\Models\\SenhaModel.cs",
+              "ToolTip": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Models\\SenhaModel.cs",
+              "RelativeToolTip": "ValidarSenha\\Models\\SenhaModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:59:50.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SenhaValidator.cs",
+              "DocumentMoniker": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Services\\SenhaValidator.cs",
+              "RelativeDocumentMoniker": "ValidarSenha\\Services\\SenhaValidator.cs",
+              "ToolTip": "C:\\Users\\petro\\Documents\\Projetos\\ValidarSenha\\ValidarSenha\\Services\\SenhaValidator.cs",
+              "RelativeToolTip": "ValidarSenha\\Services\\SenhaValidator.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwEgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-01T20:59:48.439Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
